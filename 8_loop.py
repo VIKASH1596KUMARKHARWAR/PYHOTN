@@ -11,5 +11,3 @@ for i in l:
 
 print(l_num)
 print(l_str)
-
-
