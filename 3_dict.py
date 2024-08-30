@@ -75,13 +75,3 @@ d6.pop("mentor")  # return bfr del --#need to give a key
 d6
 
 
-marks = input("enter ur marks")  # default typecast to str
-type(marks)
-
-marks = int(input("enter ur marks"))  # default typecast to str
-type(marks)
-
-
-
-number = 42
-print(f"The answer to life, the universe, and everything is {number}.")
